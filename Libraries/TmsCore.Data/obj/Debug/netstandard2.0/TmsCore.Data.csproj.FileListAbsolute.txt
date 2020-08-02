@@ -1,0 +1,12 @@
+I:\TMSCore\Libraries\TmsCore.Data\bin\Debug\netstandard2.0\TmsCore.Data.deps.json
+I:\TMSCore\Libraries\TmsCore.Data\bin\Debug\netstandard2.0\TmsCore.Data.dll
+I:\TMSCore\Libraries\TmsCore.Data\bin\Debug\netstandard2.0\TmsCore.Data.pdb
+I:\TMSCore\Libraries\TmsCore.Data\bin\Debug\netstandard2.0\TmsCore.Core.dll
+I:\TMSCore\Libraries\TmsCore.Data\bin\Debug\netstandard2.0\TmsCore.Core.pdb
+I:\TMSCore\Libraries\TmsCore.Data\obj\Debug\netstandard2.0\TmsCore.Data.csprojAssemblyReference.cache
+I:\TMSCore\Libraries\TmsCore.Data\obj\Debug\netstandard2.0\TmsCore.Data.csproj.CoreCompileInputs.cache
+I:\TMSCore\Libraries\TmsCore.Data\obj\Debug\netstandard2.0\TmsCore.Data.AssemblyInfoInputs.cache
+I:\TMSCore\Libraries\TmsCore.Data\obj\Debug\netstandard2.0\TmsCore.Data.AssemblyInfo.cs
+I:\TMSCore\Libraries\TmsCore.Data\obj\Debug\netstandard2.0\TmsCore.Data.csproj.CopyComplete
+I:\TMSCore\Libraries\TmsCore.Data\obj\Debug\netstandard2.0\TmsCore.Data.dll
+I:\TMSCore\Libraries\TmsCore.Data\obj\Debug\netstandard2.0\TmsCore.Data.pdb

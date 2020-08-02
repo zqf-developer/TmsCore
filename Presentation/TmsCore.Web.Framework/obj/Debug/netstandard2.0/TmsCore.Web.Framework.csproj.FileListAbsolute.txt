@@ -1,0 +1,16 @@
+I:\TMSCore\Presentation\TmsCore.Web.Framework\bin\Debug\netstandard2.0\TmsCore.Web.Framework.deps.json
+I:\TMSCore\Presentation\TmsCore.Web.Framework\bin\Debug\netstandard2.0\TmsCore.Web.Framework.dll
+I:\TMSCore\Presentation\TmsCore.Web.Framework\bin\Debug\netstandard2.0\TmsCore.Web.Framework.pdb
+I:\TMSCore\Presentation\TmsCore.Web.Framework\bin\Debug\netstandard2.0\TmsCore.Core.dll
+I:\TMSCore\Presentation\TmsCore.Web.Framework\bin\Debug\netstandard2.0\TmsCore.Data.dll
+I:\TMSCore\Presentation\TmsCore.Web.Framework\bin\Debug\netstandard2.0\TmsCore.Services.dll
+I:\TMSCore\Presentation\TmsCore.Web.Framework\bin\Debug\netstandard2.0\TmsCore.Core.pdb
+I:\TMSCore\Presentation\TmsCore.Web.Framework\bin\Debug\netstandard2.0\TmsCore.Data.pdb
+I:\TMSCore\Presentation\TmsCore.Web.Framework\bin\Debug\netstandard2.0\TmsCore.Services.pdb
+I:\TMSCore\Presentation\TmsCore.Web.Framework\obj\Debug\netstandard2.0\TmsCore.Web.Framework.csprojAssemblyReference.cache
+I:\TMSCore\Presentation\TmsCore.Web.Framework\obj\Debug\netstandard2.0\TmsCore.Web.Framework.csproj.CoreCompileInputs.cache
+I:\TMSCore\Presentation\TmsCore.Web.Framework\obj\Debug\netstandard2.0\TmsCore.Web.Framework.AssemblyInfoInputs.cache
+I:\TMSCore\Presentation\TmsCore.Web.Framework\obj\Debug\netstandard2.0\TmsCore.Web.Framework.AssemblyInfo.cs
+I:\TMSCore\Presentation\TmsCore.Web.Framework\obj\Debug\netstandard2.0\TmsCore.Web.Framework.csproj.CopyComplete
+I:\TMSCore\Presentation\TmsCore.Web.Framework\obj\Debug\netstandard2.0\TmsCore.Web.Framework.dll
+I:\TMSCore\Presentation\TmsCore.Web.Framework\obj\Debug\netstandard2.0\TmsCore.Web.Framework.pdb

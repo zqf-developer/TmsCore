@@ -1,0 +1,9 @@
+I:\TMSCore\Libraries\TmsCore.Core\bin\Debug\netstandard2.0\TmsCore.Core.deps.json
+I:\TMSCore\Libraries\TmsCore.Core\bin\Debug\netstandard2.0\TmsCore.Core.dll
+I:\TMSCore\Libraries\TmsCore.Core\bin\Debug\netstandard2.0\TmsCore.Core.pdb
+I:\TMSCore\Libraries\TmsCore.Core\obj\Debug\netstandard2.0\TmsCore.Core.csprojAssemblyReference.cache
+I:\TMSCore\Libraries\TmsCore.Core\obj\Debug\netstandard2.0\TmsCore.Core.csproj.CoreCompileInputs.cache
+I:\TMSCore\Libraries\TmsCore.Core\obj\Debug\netstandard2.0\TmsCore.Core.AssemblyInfoInputs.cache
+I:\TMSCore\Libraries\TmsCore.Core\obj\Debug\netstandard2.0\TmsCore.Core.AssemblyInfo.cs
+I:\TMSCore\Libraries\TmsCore.Core\obj\Debug\netstandard2.0\TmsCore.Core.dll
+I:\TMSCore\Libraries\TmsCore.Core\obj\Debug\netstandard2.0\TmsCore.Core.pdb

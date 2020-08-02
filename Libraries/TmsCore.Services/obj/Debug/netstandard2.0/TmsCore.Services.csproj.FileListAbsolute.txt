@@ -1,0 +1,14 @@
+I:\TMSCore\Libraries\TmsCore.Services\bin\Debug\netstandard2.0\TmsCore.Services.deps.json
+I:\TMSCore\Libraries\TmsCore.Services\bin\Debug\netstandard2.0\TmsCore.Services.dll
+I:\TMSCore\Libraries\TmsCore.Services\bin\Debug\netstandard2.0\TmsCore.Services.pdb
+I:\TMSCore\Libraries\TmsCore.Services\bin\Debug\netstandard2.0\TmsCore.Core.dll
+I:\TMSCore\Libraries\TmsCore.Services\bin\Debug\netstandard2.0\TmsCore.Data.dll
+I:\TMSCore\Libraries\TmsCore.Services\bin\Debug\netstandard2.0\TmsCore.Core.pdb
+I:\TMSCore\Libraries\TmsCore.Services\bin\Debug\netstandard2.0\TmsCore.Data.pdb
+I:\TMSCore\Libraries\TmsCore.Services\obj\Debug\netstandard2.0\TmsCore.Services.csprojAssemblyReference.cache
+I:\TMSCore\Libraries\TmsCore.Services\obj\Debug\netstandard2.0\TmsCore.Services.csproj.CoreCompileInputs.cache
+I:\TMSCore\Libraries\TmsCore.Services\obj\Debug\netstandard2.0\TmsCore.Services.AssemblyInfoInputs.cache
+I:\TMSCore\Libraries\TmsCore.Services\obj\Debug\netstandard2.0\TmsCore.Services.AssemblyInfo.cs
+I:\TMSCore\Libraries\TmsCore.Services\obj\Debug\netstandard2.0\TmsCore.Services.csproj.CopyComplete
+I:\TMSCore\Libraries\TmsCore.Services\obj\Debug\netstandard2.0\TmsCore.Services.dll
+I:\TMSCore\Libraries\TmsCore.Services\obj\Debug\netstandard2.0\TmsCore.Services.pdb
