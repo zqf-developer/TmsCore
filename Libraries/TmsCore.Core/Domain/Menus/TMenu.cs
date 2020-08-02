@@ -1,7 +1,7 @@
 using System;
 using TmsCore.Core;
 
-public partial class Menu : BaseEntity
+public partial class TMenu : BaseEntity
 {
     /// <summary>
     /// 菜单ID

@@ -1,7 +1,7 @@
 using System;
 using TmsCore.Core;
 
-public partial class Role : BaseEntity
+public partial class TRole : BaseEntity
 {
 
     /// <summary>

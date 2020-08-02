@@ -1,7 +1,7 @@
 using System;
 using TmsCore.Core;
 
-public partial class User : BaseEntity
+public partial class TUser : BaseEntity
 {
     /// <summary>
     /// 用户ID
