@@ -1,33 +1,25 @@
 using System;
 using TmsCore.Core;
 
-public partial class TRole : BaseEntity
+public partial class TRoleMenu : BaseEntity
 {
-
     /// <summary>
-    /// 角色ID 
+    /// 角色ID
     /// </summary>
     /// <value></value>
     public string roleID { get; set; }
 
     /// <summary>
-    /// 角色名称
+    /// 菜单ID
     /// </summary>
     /// <value></value>
-    public string roleName { get; set; }
-
-    /// <summary>
-    /// 角色描述
-    /// </summary>
-    /// <value></value>
-    public string roleDesc { get; set; }
+    public string menuID { get; set; }
 
     /// <summary>
     /// 用户ID
     /// </summary>
     /// <value></value>
     public string userID { get; set; }
-
 
     /// <summary>
     /// 创建日期

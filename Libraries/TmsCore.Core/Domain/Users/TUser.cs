@@ -34,18 +34,6 @@ public partial class TUser : BaseEntity
     public string Password { get; set; }
 
     /// <summary>
-    /// 创建日期
-    /// </summary>
-    /// <value></value>
-    public System.DateTime CreateDTime { get; set; }
-
-    /// <summary>
-    /// 更新日期
-    /// </summary>
-    /// <value></value>
-    public System.DateTime ModifyDTime { get; set; }
-
-    /// <summary>
     /// 是否有效
     /// </summary>
     /// <value></value>
@@ -74,5 +62,26 @@ public partial class TUser : BaseEntity
     /// </summary>
     /// <value></value>
     public System.DateTime ApprovedDTime { get; set; }
+
+    /// <summary>
+    /// 创建日期
+    /// </summary>
+    /// <value></value>
+    public DateTime CreateDTime { get; set; }
+    /// <summary>
+    /// 创建人
+    /// </summary>
+    /// <value></value>
+    public string Creator { get; set; }
+    /// <summary>
+    /// 修改日期
+    /// </summary>
+    /// <value></value>
+    public DateTime ModifyDTime { get; set; }
+    /// <summary>
+    /// 修改人
+    /// </summary>
+    /// <value></value>
+    public string Modifier { get; set; }
 
 }

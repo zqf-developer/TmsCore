@@ -1,33 +1,37 @@
 using System;
 using TmsCore.Core;
 
-public partial class TRole : BaseEntity
+public partial class TMenuAddr : BaseEntity
 {
-
     /// <summary>
-    /// 角色ID 
+    /// 菜单ID
     /// </summary>
     /// <value></value>
-    public string roleID { get; set; }
+    public string menuID { get; set; }
 
     /// <summary>
-    /// 角色名称
+    /// 语言
     /// </summary>
     /// <value></value>
-    public string roleName { get; set; }
+    public string Language { get; set; }
 
     /// <summary>
-    /// 角色描述
+    /// 地址
     /// </summary>
     /// <value></value>
-    public string roleDesc { get; set; }
+    public string Url { get; set; }
+
+    /// <summary>
+    /// 语言描述
+    /// </summary>
+    /// <value></value>
+    public string LanguageDesc { get; set; }
 
     /// <summary>
     /// 用户ID
     /// </summary>
     /// <value></value>
     public string userID { get; set; }
-
 
     /// <summary>
     /// 创建日期
@@ -49,5 +53,4 @@ public partial class TRole : BaseEntity
     /// </summary>
     /// <value></value>
     public string Modifier { get; set; }
-
 }
