@@ -8,13 +8,19 @@ public partial class TUserRole : BaseEntity
     /// 用户ID
     /// </summary>
     /// <value></value>
-    public string userID { get; set; }
+    public string UserID { get; set; }
 
     /// <summary>
     /// 角色ID
     /// </summary>
     /// <value></value>
-    public string roleID { get; set; }
+    public string RoleID { get; set; }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <value></value>
+    public virtual TUser User { get; set; }
 
     /// <summary>
     /// 创建日期
