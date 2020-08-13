@@ -7,7 +7,7 @@ public partial class TMenuAddr : BaseEntity
     /// 菜单ID
     /// </summary>
     /// <value></value>
-    public string menuID { get; set; }
+    public string MenuID { get; set; }
 
     /// <summary>
     /// 语言
@@ -31,7 +31,13 @@ public partial class TMenuAddr : BaseEntity
     /// 用户ID
     /// </summary>
     /// <value></value>
-    public string userID { get; set; }
+    public string UserID { get; set; }
+
+    /// <summary>
+    /// 是否有效
+    /// </summary>
+    /// <value></value>
+    public bool IsActive { get; set; }
 
     /// <summary>
     /// 创建日期

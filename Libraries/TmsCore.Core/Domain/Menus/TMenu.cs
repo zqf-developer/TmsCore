@@ -7,55 +7,55 @@ public partial class TMenu : BaseEntity
     /// 菜单ID
     /// </summary>
     /// <value></value>
-    public string menuID { get; set; }
+    public string MenuID { get; set; }
 
     /// <summary>
     /// 菜单名称
     /// </summary>
     /// <value></value>
-    public string menuName { get; set; }
+    public string MenuName { get; set; }
 
     /// <summary>
     /// 菜单中文描述
     /// </summary>
     /// <value></value>
-    public string menuChineseDesc { get; set; }
+    public string MenuChineseDesc { get; set; }
 
     /// <summary>
     /// 菜单英文描述
     /// </summary>
     /// <value></value>
-    public string menuEnglishDesc { get; set; }
+    public string MenuEnglishDesc { get; set; }
 
     /// <summary>
     /// 菜单类型
     /// </summary>
     /// <value></value>
-    public string menuType { get; set; }
+    public string MenuType { get; set; }
 
     /// <summary>
     /// 菜单是否有效
     /// </summary>
     /// <value></value>
-    public Nullable<bool> menuActive { get; set; }
+    public bool IsActive { get; set; }
 
     /// <summary>
     /// 菜单参数
     /// </summary>
     /// <value></value>
-    public string menuParamLS { get; set; }
+    public string MenuParamLS { get; set; }
 
     /// <summary>
     /// 单个表名称
     /// </summary>
     /// <value></value>
-    public string singleTableName { get; set; }
+    public string SingleTableName { get; set; }
 
     /// <summary>
     /// 是否有父节点
     /// </summary>
     /// <value></value>
-    public Nullable<bool> isParentNode { get; set; }
+    public bool IsParentNode { get; set; }
 
     /// <summary>
     /// 创建日期

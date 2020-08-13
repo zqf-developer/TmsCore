@@ -33,11 +33,56 @@ public partial class TUser : BaseEntity
     /// <value></value>
     public string Password { get; set; }
 
+
+    /// <summary>
+    /// 手机号码
+    /// </summary>
+    /// <value></value>
+    public string Moblie { get; set; }
+
+    /// <summary>
+    /// 电子邮箱
+    /// </summary>
+    /// <value></value>
+    public string Email { get; set; }
+
+
+    /// <summary>
+    /// 用户是否被删除
+    /// </summary>
+    public bool Deleted { get; set; }
+
+    /// <summary>
+    /// 是否是系统账户
+    /// </summary>
+    public bool IsSystemAccount { get; set; }
+
+    /// <summary>
+    /// 系统名称
+    /// </summary>
+    public string SystemName { get; set; }
+
+    /// <summary>
+    /// 上次登录的IP地址
+    /// </summary>
+    public string LastIpAddress { get; set; }
+
+
+    /// <summary>
+    /// 上次登录时间
+    /// </summary>
+    public DateTime? LastLoginDateUtc { get; set; }
+
+    /// <summary>
+    /// 上次
+    /// </summary>
+    public DateTime LastActivityDateUtc { get; set; }
+
     /// <summary>
     /// 是否有效
     /// </summary>
     /// <value></value>
-    public Nullable<bool> IsActive { get; set; }
+    public bool IsActive { get; set; }
 
     /// <summary>
     /// 有效日期截止
@@ -51,17 +96,6 @@ public partial class TUser : BaseEntity
     /// <value></value>
     public string Source { get; set; }
 
-    /// <summary>
-    /// 审批人
-    /// </summary>
-    /// <value></value>
-    public string ApprovedBy { get; set; }
-
-    /// <summary>
-    /// 审批日期
-    /// </summary>
-    /// <value></value>
-    public System.DateTime ApprovedDTime { get; set; }
 
     /// <summary>
     /// 创建日期

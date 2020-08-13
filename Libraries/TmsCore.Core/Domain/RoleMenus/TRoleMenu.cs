@@ -7,19 +7,19 @@ public partial class TRoleMenu : BaseEntity
     /// 角色ID
     /// </summary>
     /// <value></value>
-    public string roleID { get; set; }
+    public string RoleID { get; set; }
 
     /// <summary>
     /// 菜单ID
     /// </summary>
     /// <value></value>
-    public string menuID { get; set; }
+    public string MenuID { get; set; }
 
     /// <summary>
     /// 用户ID
     /// </summary>
     /// <value></value>
-    public string userID { get; set; }
+    public string UserID { get; set; }
 
     /// <summary>
     /// 创建日期

@@ -8,25 +8,25 @@ public partial class TRole : BaseEntity
     /// 角色ID 
     /// </summary>
     /// <value></value>
-    public string roleID { get; set; }
+    public string RoleID { get; set; }
 
     /// <summary>
     /// 角色名称
     /// </summary>
     /// <value></value>
-    public string roleName { get; set; }
+    public string RoleName { get; set; }
 
     /// <summary>
     /// 角色描述
     /// </summary>
     /// <value></value>
-    public string roleDesc { get; set; }
+    public string RoleDesc { get; set; }
 
     /// <summary>
     /// 用户ID
     /// </summary>
     /// <value></value>
-    public string userID { get; set; }
+    public string UserID { get; set; }
 
 
     /// <summary>
