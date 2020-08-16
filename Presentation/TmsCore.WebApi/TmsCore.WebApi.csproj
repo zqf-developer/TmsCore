@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libraries\TmsCore.Core\TmsCore.Core.csproj" />
+    <ProjectReference Include="..\..\Libraries\TmsCore.Data\TmsCore.Data.csproj" />
+    <ProjectReference Include="..\..\Libraries\TmsCore.Services\TmsCore.Services.csproj" />
+    <ProjectReference Include="..\TmsCore.Web.Framework\TmsCore.Web.Framework.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>
